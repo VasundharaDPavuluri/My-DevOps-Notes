@@ -147,11 +147,13 @@ git revert <commit-id>
 
 ## 10. Git Ignore
 .gitignore is used to exclude files from being tracked by Git.
+
 **Example** .gitignore:
+```bash
 *.log
 node_modules/
 .env 
-
+```
 ---
 
 ## 11. Common Git Workflow
