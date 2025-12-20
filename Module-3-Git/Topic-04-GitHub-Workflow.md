@@ -153,7 +153,9 @@ This ensures code quality and stability.
 
 11. GitHub Workflow in DevOps CI/CD
 Typical CI/CD flow:
+```bash
 Code Commit → GitHub → CI Pipeline → Tests → Build → Deploy
+```
 
 GitHub integrates seamlessly with:
 - Jenkins
