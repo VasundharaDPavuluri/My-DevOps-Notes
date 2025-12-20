@@ -100,7 +100,7 @@ Step 7: Merge Pull Request
 - Merge into `main` branch
 - Delete feature branch after merge
 ---
-6. Pull Requests (PR)
+## 6. Pull Requests (PR)
 What is a Pull Request?
 A Pull Request is a request to merge changes from one branch into another.
 PRs help in:
@@ -110,7 +110,7 @@ PRs help in:
 - Avoiding broken code in main branch
 ---
 
-7. Code Review Best Practices
+## 7. Code Review Best Practices
 - Keep PRs small and focused
 - Write clear commit messages
 - Add meaningful PR descriptions
@@ -118,7 +118,7 @@ PRs help in:
 
 ---
 
-8. GitHub Issues
+## 8. GitHub Issues
 GitHub Issues are used to:
 - Track bugs
 - Plan features
@@ -128,7 +128,7 @@ Issues can be linked to Pull Requests for better tracking.
 
 ---
 
-9. GitHub Actions (Workflow Automation)
+## 9. GitHub Actions (Workflow Automation)
 GitHub Actions allow automation of workflows such as:
 - CI/CD pipelines
 - Testing
@@ -142,7 +142,7 @@ Example triggers:
 
 ---
 
-10. Protecting the Main Branch
+## 10. Protecting the Main Branch
 Branch protection rules help:
 - Prevent direct pushes to main
 - Enforce PR reviews
@@ -151,7 +151,7 @@ This ensures code quality and stability.
 
 ---
 
-11. GitHub Workflow in DevOps CI/CD
+## 11. GitHub Workflow in DevOps CI/CD
 Typical CI/CD flow:
 ```bash
 Code Commit → GitHub → CI Pipeline → Tests → Build → Deploy
@@ -165,7 +165,7 @@ GitHub integrates seamlessly with:
 
 ---
 
-12. Best Practices for GitHub Workflow
+## 12. Best Practices for GitHub Workflow
 - Use feature branches
 - Never commit directly to main
 - Enforce code reviews
@@ -174,7 +174,7 @@ GitHub integrates seamlessly with:
 
 ---
 
-13. Summary
+## 13. Summary
 - GitHub enables collaboration and automation
 - Pull requests are core to GitHub workflow
 - Feature branch workflow is most common
