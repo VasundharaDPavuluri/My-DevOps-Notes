@@ -130,7 +130,7 @@ This helps enforce security and compliance.
 - Avoid committing secrets
 - Maintain clean repository structure
 
----
+--- 
 
 ## 11. Real-World DevOps Use Case
 In real projects:
