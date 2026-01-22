@@ -7,6 +7,7 @@ module & topic-wise manner.
 - Module 1: Linux
 - Module 2: DevOps Fundamentals
 - Module 3: Git & Version Control
+- Top-AWS-Services-for-DevOps-Engineers
 
 These notes are intended for:
 - Beginners learning DevOps
