@@ -35,11 +35,9 @@ DevOps is NOT a tool — it is a *way of working* supported by tools.
 
 ## 3. DevOps Lifecycle
 The DevOps lifecycle is continuous and automated:
-
+```text
 Plan → Code → Build → Test → Release → Deploy → Operate → Monitor → Feedback
-
-markdown
-Copy code
+```
 
 ### Explanation:
 - **Plan:** Define requirements  
