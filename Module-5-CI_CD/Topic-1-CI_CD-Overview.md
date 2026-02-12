@@ -22,15 +22,25 @@ Continuous Delivery is the automated process of deploying validated builds to en
 ## High-Level Workflow
 
 Developer Laptop
+
 ↓
+
 Version Control System (GitHub/GitLab/Bitbucket)
+
 ↓
+
 CI/CD Pipeline Trigger
+
 ↓
+
 Continuous Integration
+
 ↓
+
 Continuous Delivery
+
 ↓
+
 Customer Access
 
 
