@@ -8,10 +8,12 @@ module & topic-wise manner.
 - Module 2: DevOps Fundamentals
 - Module 3: Git & Version Control
 - Top-AWS-Services-for-DevOps-Engineers
+- Module 4: Containers
 
-These notes are intended for:
+These notes are intended for: 
 - Beginners learning DevOps
 - Revision and quick reference
 - Interview preparation
 
 More modules will be added 🚀
+ 
