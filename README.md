@@ -11,7 +11,7 @@ module & topic-wise manner.
 - Module 4: Containers
 
 These notes are intended for: 
-- Beginners learning DevOps
+- Beginners learning DevOps 
 - Revision and quick reference
 - Interview preparation
 
