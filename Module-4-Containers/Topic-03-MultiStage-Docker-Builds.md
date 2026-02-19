@@ -129,3 +129,5 @@ Multi-stage builds are not an optimization trick.
 They’re a production engineering standard.
 
 ---
+<img width="1536" height="1024" alt="Multi Stage Docker Builds" src="https://github.com/user-attachments/assets/218fefaa-2333-44b0-badf-93fc4d49d596" />
+
