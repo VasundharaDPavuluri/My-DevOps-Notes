@@ -9,7 +9,8 @@ module & topic-wise manner.
 - Module 3: Git & Version Control
 - Top-AWS-Services-for-DevOps-Engineers
 - Module 4: Containers
-- Module 5:CI_CD
+- Module 5: Container Orchestration
+- Module 6: CI_CD
 
 These notes are intended for: 
 - Beginners learning DevOps 
