@@ -81,7 +81,8 @@ That’s why:
 - Failures are handled without manual intervention
 
 <img width="500" height="500" alt="k8s-post-2" src="https://github.com/user-attachments/assets/f778f8cc-8854-4d79-b4c0-73192c883077" />
-----
+
+---------
 
 ### 📌 Simple Way to Remember
 
