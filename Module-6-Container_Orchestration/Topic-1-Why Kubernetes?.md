@@ -18,7 +18,7 @@ Several questions arise immediately:
 Managing this manually becomes impractical.
 
 ------
-## Why Kubernetes Became Essential
+## Why Kubernetes Became Essential ?
 
 This is where container orchestration platforms like Kubernetes come in.
 Kubernetes automates many operational tasks such as:
@@ -36,4 +36,4 @@ Kubernetes is not just about running containers.
 It provides the operational foundation required to run distributed microservices reliably at scale.
 
 <img width="500" height="500" alt="K8s-Post1" src="https://github.com/user-attachments/assets/9ca6cf77-c0f8-438e-85a7-53100cc0ead4" />
-------
+-----
