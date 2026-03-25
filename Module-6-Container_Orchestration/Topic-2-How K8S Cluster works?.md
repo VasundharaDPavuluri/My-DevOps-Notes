@@ -7,7 +7,7 @@ At a high level, Kubernetes is not complex.
 It follows a very simple design:
 
 ##### One part decides → One part executes
-
+ 
 ## 🧠 Control Plane (The Brain)
 
 The control plane is responsible for managing the cluster.
