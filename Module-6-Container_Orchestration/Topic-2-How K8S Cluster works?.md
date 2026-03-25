@@ -63,7 +63,6 @@ kubelet
 Container Runtime
   ↓
 Pod starts running
-
 ```
 
 ### 🧠 One Insight That Helped Me
