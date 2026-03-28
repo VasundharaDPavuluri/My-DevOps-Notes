@@ -9,7 +9,7 @@ While working with containerized applications, one thing becomes clear very quic
 Now imagine running hundreds of containers across multiple machines.
 
 Several questions arise immediately: 
-- Are all containers running correctly?
+- Are all containers running correctly? 
 - What happens if a container crashes?
 - How do we scale services when traffic spikes?
 - How do services discover and communicate with each other?
