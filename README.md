@@ -4,7 +4,7 @@ This repository contains my personal DevOps learning notes, organized in a
 module & topic-wise manner.
 
 ## Modules Covered
-- Module 1: Linux
+- Module 1: Linux 
 - Module 2: DevOps Fundamentals
 - Module 3: Git & Version Control
 - Top-AWS-Services-for-DevOps-Engineers
