@@ -20,7 +20,7 @@ Key components:
 - etcd → Stores cluster state (desired & current)
 - Scheduler → Decides where to run pods
 - Controller Manager → Ensures desired state = actual state
-
+ 
 Example:
 If you define:
 ```
