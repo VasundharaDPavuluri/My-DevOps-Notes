@@ -7,7 +7,7 @@ This document provides a structured overview of the CI/CD lifecycle, key stages,
 
 ---
 
-## CI/CD Fundamentals
+## CI/CD Fundamentals 
 
 CI/CD consists of two primary components:
 
