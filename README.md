@@ -5,12 +5,12 @@ module & topic-wise manner.
 
 ## Modules Covered
 - Module 1: Linux 
-- Module 2: DevOps Fundamentals
+- Module 2: DevOps Fundamentals 
 - Module 3: Git & Version Control
 - Top-AWS-Services-for-DevOps-Engineers
 - Module 4: Containers
 - Module 5: CI_CD
--  Module 6: Container Orchestration
+- Module 6: Container Orchestration
 
 These notes are intended for: 
 - Beginners learning DevOps 
