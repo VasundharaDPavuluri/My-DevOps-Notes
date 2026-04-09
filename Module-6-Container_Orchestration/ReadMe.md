@@ -1,36 +1,33 @@
-kubernetes-notes/
-
-│
-
-├── README.md  (main index)
+kubernetes-important-concepts/
 
 │
 
 ├── architecture/
 
-│   ├── control-plane.md
+│   ├── control-plane vs data-plane
 
-│   ├── kubectl-flow.md
+│   ├── kubectl-flow
 
 │
 
 ├── operations/
 
-│   ├── self-healing.md
+│   ├── self-healing
 
-│   ├── rolling-updates.md
+│   ├── rolling-updates
 
 │
 
 ├── networking/
 
-│   ├── services.md
+│   ├── services
 
 │
 
 ├── storage/
 
-│   ├── pv-pvc.md
+│   ├── pv-pvc
 
-│   ├── dynamic-provisioning.md
+│   ├── dynamic-provisioning
 
+----
