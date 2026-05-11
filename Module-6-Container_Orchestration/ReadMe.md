@@ -4,7 +4,7 @@ kubernetes-important-concepts/
 
 ├── architecture/
 
-│   ├── control-plane vs data-plane
+│   ├── control-plane vs data-plane 
 
 │   ├── kubectl-flow
 
