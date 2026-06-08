@@ -149,3 +149,6 @@ Webhook
 =
 "Something changed."
 ```
+
+<img width="1536" height="1024" alt="Poll SCM vs Webhooks" src="https://github.com/user-attachments/assets/6767d90f-bece-4488-9dda-fe10fe9ee537" />
+
