@@ -7,7 +7,7 @@ We no longer manually create storage volumes for applications.
 Kubernetes can provision storage automatically.
 
 ---
-
+ 
 # 📌 The Traditional Problem
 
 In traditional environments:
