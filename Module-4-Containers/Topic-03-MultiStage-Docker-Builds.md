@@ -12,7 +12,7 @@ They often ship with:
 But production only needs the runtime + artifact.
 
 That’s wasted space, slower pipelines, and a larger attack surface.
-
+ 
 ---
 
 ### 🔹 What is a Multi-Stage Build?
