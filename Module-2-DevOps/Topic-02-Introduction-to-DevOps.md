@@ -9,7 +9,7 @@ Before DevOps, teams faced:
 - Miscommunication between Dev & Ops
 - Manual deployments
 - Frequent production issues
-- Delayed feedback loops
+- Delayed feedback loops 
 
 **DevOps emerged to fix these gaps** by combining development + operations with automation and collaboration.
 
