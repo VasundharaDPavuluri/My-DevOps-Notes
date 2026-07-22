@@ -11,6 +11,7 @@ module & topic-wise manner.
 - Module 4: Containers
 - Module 5: CI_CD
 - Module 6: Container Orchestration
+- Module 7: IaC and Terraform
 
 These notes are intended for: 
 - Beginners learning DevOps 
