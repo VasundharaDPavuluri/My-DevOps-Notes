@@ -5,7 +5,7 @@
 After writing Terraform code, the next question is:
 
 **How does Terraform actually create infrastructure?**
-
+ 
 The answer lies in three core commands that make up every Terraform workflow:
 
 - `terraform init`
