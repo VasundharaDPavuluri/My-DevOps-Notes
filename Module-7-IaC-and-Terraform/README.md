@@ -7,7 +7,7 @@ This module covers the fundamentals of Infrastructure as Code (IaC) using Terraf
 You'll learn how Terraform works, how it provisions cloud infrastructure, and the concepts required to build and manage infrastructure efficiently.
 
 ## Topics
-
+ 
 - Why Infrastructure as Code Changed Cloud Engineering
 - How Terraform Actually Works (init → plan → apply)
 - Terraform State Explained
